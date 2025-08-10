@@ -1,3 +1,3 @@
 # My-Repository-
-My Course Stuff
-My Project 
+This is my Course first project
+ Author - Mr suleman
